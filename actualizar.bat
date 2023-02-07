@@ -1,7 +1,7 @@
-git stash apply "actualizando"
+git stash
 pause
 git pull
 pause
-git stash clear
+npm install
 pause
 exit
